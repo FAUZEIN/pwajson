@@ -5,7 +5,7 @@
   "display": "standalone",
   "name": "Trending Topik",
   "orientation": "any",
-  "scope": "/",
+  "scope": "https://www.trendingtopik.net/",
   "short_name": "Trending Topik",
   "start_url": "https://www.trendingtopik.net/",
   "theme_color": "#ff0000",
