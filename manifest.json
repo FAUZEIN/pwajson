@@ -6,8 +6,8 @@
   "name": "Trending Topik",
   "orientation": "any",
   "scope": "/",
-  "short_name": "www.trendingtopik",
-  "start_url": "/",
+  "short_name": "Trending Topik",
+  "start_url": "https://www.trendingtopik.net/",
   "theme_color": "#ff0000",
   "categories": [
     "entertainment",
